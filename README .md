@@ -25,7 +25,7 @@ x is transformed using the function: z=x+ar​⋅sin(br​⋅x)
 
 Transformation Parameters
 
-University Roll Number: 102353018
+University Roll Number: 102313062
 
 a_r = 0.5 × (r mod 7) = 2.5
 
@@ -203,9 +203,9 @@ The KDE of generated samples is compared with the KDE of real transformed data.
 
 Transformation Parameters
 
-Roll Number : 102353018
+Roll Number : 102313062
 a_r = 2.5
-b_r = 1.2
+b_r = 0.89
 
 
 GAN Architecture
@@ -226,5 +226,5 @@ Mode Coverage: Good
 
 Statistical Measures
 
-KS Statistic      : 0.3762
-Wasserstein Dist. : 11.15
+KS Statistic      : 0.3108
+Wasserstein Dist. : 7.83
